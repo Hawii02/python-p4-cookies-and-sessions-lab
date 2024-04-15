@@ -49,7 +49,7 @@ function Article() {
         <p>
           {date} • {emojis} {minutes_to_read} min read
         </p>
-        <p>
+        <p> 
           <em>Written by {author}</em>
         </p>
       </small>
